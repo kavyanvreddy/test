@@ -1,4 +1,4 @@
-git --version
+git --version version is 2.19.1
 git help config
 git config --help
 mkdit test
